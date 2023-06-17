@@ -26,12 +26,9 @@ interface ImageDistributionStackProps extends StackProps {
     readonly stage: Stage
 }
 
-// related to architecture. If set to false, transformed images are not stored in S3, and all image requests land on Lambda
-const STORE_TRANSFORMED_IMAGES = 'true';
 // Parameters of S3 bucket where original images are stored
 // CloudFront parameters
 const CLOUDFRONT_ORIGIN_SHIELD_REGION = AwsRegion.EU_WEST_1;
-const CLOUDFRONT_CORS_ENABLED = 'true';
 // Parameters of transformed images
 const S3_TRANSFORMED_IMAGE_EXPIRATION_DURATION = 90;
 
@@ -50,16 +47,17 @@ type LambdaEnv = {
 }
 
 
-class ImageDistributionStack extends Stack {
+export class ImageDistributionStack extends Stack {
 
     constructor(scope: Construct, id: string, props: ImageDistributionStackProps) {
         super(scope, id, props);
 
-        const imagesBucket = createS3Bucket(this, "images-bucket" + props.stage, {stage: props.stage});
+        const imagesBucket = createS3Bucket(this, "carz-images-bucket-" + props.stage, {stage: props.stage});
 
-        const transformedImageBucket = new s3.Bucket(this, 'transformed-image-bucket' + props.stage, {
-            removalPolicy: RemovalPolicy.DESTROY,
-            autoDeleteObjects: true,
+        const transformedImageBucket = new s3.Bucket(this, 'carz-transformed-image-bucket-' + props.stage, {
+            bucketName: 'carz-transformed-image-bucket-' + props.stage,
+            removalPolicy:  isProd(props.stage) ? RemovalPolicy.RETAIN : RemovalPolicy.DESTROY,
+            autoDeleteObjects: !isProd(props.stage),
             lifecycleRules: [
                 {
                     expiration: Duration.days(isProd(props.stage) ? S3_TRANSFORMED_IMAGE_EXPIRATION_DURATION : 5),
