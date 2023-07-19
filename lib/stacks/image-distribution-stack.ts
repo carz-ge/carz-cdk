@@ -66,7 +66,7 @@ export class ImageDistributionStack extends Stack {
         });
 
         const secretKey = createHash('md5').update(this.node.addr).digest('hex');
-
+        console.log("Secret key", secretKey, this.node.addr)
         const imageProcessing = createImageProcessorLambda(this, imagesBucket.bucketName, secretKey, transformedImageBucket.bucketName);
 
 
@@ -131,13 +131,21 @@ export class ImageDistributionStack extends Stack {
                 eventType: cloudfront.FunctionEventType.VIEWER_REQUEST,
                 function: urlRewriteFunction,
             }],
-            responseHeadersPolicy: imageResponseHeadersPolicy
+            responseHeadersPolicy: imageResponseHeadersPolicy,
+
         };
 
+        const logBucket = new s3.Bucket(this, 'CarzLogBucket', {
+            objectOwnership: s3.ObjectOwnership.OBJECT_WRITER,
+        });
 
         const imageDelivery = new cloudfront.Distribution(this, 'imageDeliveryDistribution', {
             comment: 'image optimization - image delivery',
-            defaultBehavior: imageDeliveryCacheBehaviorConfig
+            defaultBehavior: imageDeliveryCacheBehaviorConfig,
+            enableLogging: true, // Optional, this is implied if logBucket is specified
+            logBucket: logBucket,
+            logFilePrefix: 'distribution-access-logs/',
+            logIncludesCookies: true,
         });
 
         new CfnOutput(this, 'ImageDeliveryDomain', {

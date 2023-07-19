@@ -13,6 +13,7 @@ const SECRET_KEY = process.env.secretKey;
 const LOG_TIMING = process.env.logTiming;
 
 exports.handler = async (event) => {
+    console.log(`image processing event: ${JSON.stringify(event)}`);
     // First validate if the request is coming from CloudFront
     if (!event.headers['x-origin-secret-header'] || !(event.headers['x-origin-secret-header'] === SECRET_KEY)) return sendError(403, 'Request unauthorized', event);
     // Validate if this is a GET request

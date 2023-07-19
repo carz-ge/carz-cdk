@@ -4,7 +4,7 @@
 import urllib.parse
 
 def on_event(event, context):
-  print(event)
+  print("custom resource on_event:", event)
   request_type = event['RequestType']
   if request_type == 'Create': return on_create(event)
   if request_type == 'Update': return on_update(event)

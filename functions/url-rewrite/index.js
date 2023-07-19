@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: MIT-0
 
 function handler(event) {
+    console.log(`URL rewrite event: ${JSON.stringify(event)}`);
     const request = event.request;
     const originalImagePath = request.uri;
     //  validate, process and normalize the requested operations in query parameters
