@@ -1,15 +1,12 @@
-import * as cdk from 'aws-cdk-lib';
-import { Construct } from 'constructs';
+import {Duration, Environment, Stack, StackProps} from 'aws-cdk-lib';
+import {Construct} from 'constructs';
 
-import { CfnSchedule, CfnScheduleGroup } from 'aws-cdk-lib/aws-scheduler';
-import { Effect, Policy, PolicyStatement, Role, ServicePrincipal } from 'aws-cdk-lib/aws-iam';
-import {Duration, Environment, RemovalPolicy, Stack, StackProps} from 'aws-cdk-lib';
-import {Architecture, DockerImageCode, DockerImageFunction, Runtime, Tracing} from 'aws-cdk-lib/aws-lambda';
+import {CfnSchedule, CfnScheduleGroup} from 'aws-cdk-lib/aws-scheduler';
+import {Effect, Policy, PolicyStatement, Role, ServicePrincipal} from 'aws-cdk-lib/aws-iam';
+import {Architecture, DockerImageCode, DockerImageFunction, Tracing} from 'aws-cdk-lib/aws-lambda';
 import * as path from 'path';
-import { NodejsFunction } from 'aws-cdk-lib/aws-lambda-nodejs';
-import {AwsRegion, Stage} from "../config/types";
-import {Region} from "aws-cdk-lib/region-info/lib/aws-entities";
-import {LogGroup, RetentionDays} from "aws-cdk-lib/aws-logs";
+import {Stage} from "../config/types";
+import {RetentionDays} from "aws-cdk-lib/aws-logs";
 import {ISecret, Secret} from "aws-cdk-lib/aws-secretsmanager";
 
 interface ScheduledLambdaStackProps extends StackProps {
@@ -42,17 +39,12 @@ export class ScheduledLambdaStack extends Stack {
                 '..',
                 'functions',
                 'stations-data-fetcher',
-                )),
+            )),
             memorySize: 1024,
             timeout: Duration.seconds(5),
             environment: {
                 "STAGE": props.stage,
-                "POSTGRES_PASSWORD": getValueFromSecret(secrets,"POSTGRES_PASSWORD"),
-                "POSTGRES_USER": getValueFromSecret(secrets,"POSTGRES_USER"),
-                "POSTGRES_HOST": getValueFromSecret(secrets,"POSTGRES_HOST"),
-                "POSTGRES_URL": getValueFromSecret(secrets,"POSTGRES_URL"),
-                "POSTGRES_DB": getValueFromSecret(secrets,"POSTGRES_DB"),
-                "POSTGRES_PORT": getValueFromSecret(secrets,"POSTGRES_PORT"),
+                "POSTGRES_URL": getValueFromSecret(secrets, "POSTGRES_URL"),
             },
             tracing: Tracing.ACTIVE,
             architecture: Architecture.ARM_64,

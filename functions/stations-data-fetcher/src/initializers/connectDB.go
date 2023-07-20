@@ -3,6 +3,7 @@ package initializers
 import (
 	"fmt"
 	"log"
+	"os"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
@@ -10,10 +11,9 @@ import (
 
 var DB *gorm.DB
 
-func ConnectDB(config *Config) {
+func ConnectDB() {
 	var err error
-	dsn := fmt.Sprintf("host=%s user=%s password=%s dbname=%s port=%s sslmode=disable TimeZone=Asia/Shanghai", config.DBHost, config.DBUserName, config.DBUserPassword, config.DBName, config.DBPort)
-
+	dbUrl := os.Getenv("POSTGRES_URL")
 	//tablePrefix := fmt.Sprintf("%s.", config.DBSchema)
 	gormConfig := &gorm.Config{
 		//NamingStrategy: schema.NamingStrategy{
@@ -22,10 +22,10 @@ func ConnectDB(config *Config) {
 		//},
 	}
 
-	DB, err = gorm.Open(postgres.Open(dsn), gormConfig)
+	DB, err = gorm.Open(postgres.Open(dbUrl), gormConfig)
 	if err != nil {
 		log.Fatal("Failed to connect to the Database")
 	}
 	fmt.Println("? Connected Successfully to the Database")
-	DB.Exec("CREATE EXTENSION IF NOT EXISTS \"uuid-ossp\";")
+	//DB.Exec("CREATE EXTENSION IF NOT EXISTS \"uuid-ossp\";")
 }

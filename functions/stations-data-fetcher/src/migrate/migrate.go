@@ -1,18 +1,12 @@
 package migrate
 
 import (
-	"log"
 	"main/src/initializers"
 	"main/src/models"
 )
 
 func init() {
-	config, err := initializers.LoadConfig(".")
-	if err != nil {
-		log.Fatal("? Could not load environment variables", err)
-	}
-
-	initializers.ConnectDB(&config)
+	initializers.ConnectDB()
 }
 
 func RunMigrations() {
