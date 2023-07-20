@@ -27,11 +27,6 @@ export class ScheduledLambdaStack extends Stack {
 
         const functionName = `${props.serviceName}-${props.stage.toLowerCase()}-${props.env.region?.toLowerCase()}`;
         console.log("function name: ", functionName);
-        const secrets = Secret.fromSecretNameV2(
-            this,
-            `secrets-${functionName}`,
-            `secrets-${functionName}`
-        );
 
         const scheduledFunction = new DockerImageFunction(this, functionName, {
             code: DockerImageCode.fromImageAsset(path.join(__dirname,
@@ -44,7 +39,6 @@ export class ScheduledLambdaStack extends Stack {
             timeout: Duration.seconds(5),
             environment: {
                 "STAGE": props.stage,
-                "POSTGRES_URL": getValueFromSecret(secrets, "POSTGRES_URL"),
             },
             tracing: Tracing.ACTIVE,
             architecture: Architecture.ARM_64,

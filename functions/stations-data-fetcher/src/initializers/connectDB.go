@@ -2,18 +2,15 @@ package initializers
 
 import (
 	"fmt"
-	"log"
-	"os"
-
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
+	"log"
 )
 
 var DB *gorm.DB
 
-func ConnectDB() {
+func ConnectDB(config Config) {
 	var err error
-	dbUrl := os.Getenv("POSTGRES_URL")
 	//tablePrefix := fmt.Sprintf("%s.", config.DBSchema)
 	gormConfig := &gorm.Config{
 		//NamingStrategy: schema.NamingStrategy{
@@ -22,7 +19,9 @@ func ConnectDB() {
 		//},
 	}
 
-	DB, err = gorm.Open(postgres.Open(dbUrl), gormConfig)
+	url := config.DBUrl
+	log.Println(url)
+	DB, err = gorm.Open(postgres.Open(url), gormConfig)
 	if err != nil {
 		log.Fatal("Failed to connect to the Database")
 	}

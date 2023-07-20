@@ -5,10 +5,6 @@ import (
 	"main/src/models"
 )
 
-func init() {
-	initializers.ConnectDB()
-}
-
 func RunMigrations() {
 	initializers.DB.AutoMigrate(&models.ChargerEntity{})
 

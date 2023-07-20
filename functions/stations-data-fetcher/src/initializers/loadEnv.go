@@ -1,16 +1,17 @@
 package initializers
 
 import (
+	"context"
+	"encoding/json"
+	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/aws/aws-sdk-go-v2/service/secretsmanager"
 	"github.com/spf13/viper"
+	"log"
 )
 
 type Config struct {
-	DBHost         string `mapstructure:"POSTGRES_HOST"`
-	DBUserName     string `mapstructure:"POSTGRES_USER"`
-	DBUserPassword string `mapstructure:"POSTGRES_PASSWORD"`
-	DBName         string `mapstructure:"POSTGRES_DB"`
-	DBPort         string `mapstructure:"POSTGRES_PORT"`
-	DBSchema       string `mapstructure:"POSTGRES_SCHEMA"`
+	DBUrl string `mapstructure:"POSTGRES_URL" json:"POSTGRES_URL"`
+	//`json:"POSTGRES_URL"`
 }
 
 func LoadConfig(path string) (config Config, err error) {
@@ -26,5 +27,29 @@ func LoadConfig(path string) (config Config, err error) {
 	}
 
 	err = viper.Unmarshal(&config)
+	return
+}
+
+func LoadSecrets(awsConfig aws.Config, secretName string) (config Config, err error) {
+	// Create Secrets Manager client
+	svc := secretsmanager.NewFromConfig(awsConfig)
+
+	input := &secretsmanager.GetSecretValueInput{
+		SecretId:     aws.String(secretName),
+		VersionStage: aws.String("AWSCURRENT"), // VersionStage defaults to AWSCURRENT if unspecified
+	}
+
+	result, err := svc.GetSecretValue(context.TODO(), input)
+	if err != nil {
+		// For a list of exceptions thrown, see
+		// https://docs.aws.amazon.com/secretsmanager/latest/apireference/API_GetSecretValue.html
+		return
+	}
+
+	// Decrypts secret using the associated KMS key.
+	var secretString string = *result.SecretString
+	log.Println(secretString)
+	err = json.Unmarshal([]byte(secretString), &config)
+	// Your code goes here.
 	return
 }

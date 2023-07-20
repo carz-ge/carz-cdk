@@ -1,0 +1,6 @@
+
+run:
+ docker build -t stations-fetcher .
+ docker run --rm \
+ -e POSTGRES_URL=postgresql://car_app_user:S7WLDtcVWruL1tam_LaAjg@car-app-db-cluster-7427.7tc.cockroachlabs.cloud:26257/carapp_db?sslmode=verify-full \
+  stations-fetcher
