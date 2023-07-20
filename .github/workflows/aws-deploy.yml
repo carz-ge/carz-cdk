@@ -1,0 +1,41 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  aws_cdk:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout AWS CDK Repo
+        uses: actions/checkout@v3
+#      - name: Checkout Backend service - main
+#        uses: actions/checkout@v3
+#        with:
+#          repository: 'carz-ge/carz-api'
+#          token: ${{ secrets.GH_ACCESS_TOKEN }}
+#          ref: 'main'
+#          path: service-repos/theneo-assistant-service/main
+#      - name: Debug
+#        run: |
+#          ls -la
+#          cd service-repos
+#          ls -la
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY }}
+          aws-region: 'eu-west-1'
+      - name: Diff stacks
+        run: npm run cdk diff
+      - name: Deploy stacks
+        run: npm run cdk:deploy
