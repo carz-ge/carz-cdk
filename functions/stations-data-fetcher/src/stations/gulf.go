@@ -9,6 +9,8 @@ import (
 	"main/src/models"
 	"main/src/utils"
 	"net/http"
+	"sort"
+	"strconv"
 	"time"
 )
 
@@ -32,12 +34,16 @@ func GetGulfStationsEntities() (stations []models.AutoStationEntity, err error) 
 	if err != nil {
 		return
 	}
-
+	sort.Slice(stationsKa, func(i, j int) bool {
+		return stationsKa[i].Id < stationsKa[j].Id
+	})
 	stationsEn, err := GetGulfStations("en")
 	if err != nil {
 		return
 	}
-
+	sort.Slice(stationsEn, func(i, j int) bool {
+		return stationsEn[i].Id < stationsEn[j].Id
+	})
 	if len(stationsKa) != len(stationsEn) {
 		return nil, fmt.Errorf("socar stetions are not equal KA: %d vs EN: %d", len(stationsKa), len(stationsEn))
 	}
@@ -69,7 +75,14 @@ func GetGulfStationsEntities() (stations []models.AutoStationEntity, err error) 
 		if err != nil {
 			return nil, err
 		}
-
+		lat, err := strconv.ParseFloat(stationKa.Latitude, 64)
+		if err != nil {
+			return nil, err
+		}
+		lng, err := strconv.ParseFloat(stationKa.Longitude, 64)
+		if err != nil {
+			return nil, err
+		}
 		stations = append(stations, models.AutoStationEntity{
 			IdByProvider: stationKa.Id,
 			ProviderCode: "GULF",
@@ -80,8 +93,8 @@ func GetGulfStationsEntities() (stations []models.AutoStationEntity, err error) 
 			Description:   stationKa.Description,
 			DescriptionEn: stationEn.Description,
 			Active:        stationKa.Active == "1",
-			Latitude:      stationKa.Latitude,
-			Longitude:     stationKa.Longitude,
+			Latitude:      lat,
+			Longitude:     lng,
 			Picture:       stationKa.Picture,
 
 			ProductTypes: productsJson,

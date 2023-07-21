@@ -36,8 +36,8 @@ type AutoStationEntity struct {
 
 	Active bool
 
-	Latitude  string `gorm:"type:varchar(255);not null"`
-	Longitude string `gorm:"type:varchar(255);not null"`
+	Latitude  float64
+	Longitude float64
 	Region    string `gorm:"type:varchar(255)"`
 	RegionEn  string `gorm:"type:varchar(255)"`
 	City      string `gorm:"type:varchar(255)"`

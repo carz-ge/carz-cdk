@@ -63,8 +63,8 @@ func GetRompetrolStationsEntities() (stations []models.AutoStationEntity, err er
 
 			TextHtml:  []byte(stationKa.Infowindow),
 			Active:    true,
-			Latitude:  fmt.Sprintf("%f", stationKa.Latitude),
-			Longitude: fmt.Sprintf("%f", stationKa.Longitude),
+			Latitude:  stationKa.Latitude,
+			Longitude: stationKa.Longitude,
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
 		})

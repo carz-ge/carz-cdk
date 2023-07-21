@@ -4,40 +4,18 @@ import (
 	"log"
 	"main/src/initializers"
 	"main/src/models"
-	"main/src/stations"
-	"time"
 )
 
 func containsCharger(slice []models.AutoStationEntity, target models.AutoStationEntity) bool {
 	for _, c := range slice {
 		if c.Name == target.Name &&
 			c.Longitude == target.Longitude &&
-			c.Latitude == target.Latitude {
+			c.Latitude == target.Latitude &&
+			c.ProviderCode == target.ProviderCode {
 			return true
 		}
 	}
 	return false
-}
-
-func GetAndUpdateChargers() {
-	chargerItems, err := stations.GetChargers()
-	if err != nil {
-		return
-	}
-
-	var chargerEntities []models.AutoStationEntity
-
-	for _, charger := range chargerItems {
-		chargerEntities = append(chargerEntities, models.AutoStationEntity{
-			Name:      charger.Name,
-			Latitude:  charger.Latitude,
-			Longitude: charger.Longitude,
-			CreatedAt: time.Now(),
-			UpdatedAt: time.Now(),
-		})
-	}
-
-	SaveStations(chargerEntities)
 }
 
 func SaveStations(stationEntities []models.AutoStationEntity) {

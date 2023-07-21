@@ -9,6 +9,7 @@ import (
 	"main/src/models"
 	"main/src/utils"
 	"net/http"
+	"strconv"
 	"time"
 )
 
@@ -22,6 +23,14 @@ func GetChargerEntities() (stations []models.AutoStationEntity, err error) {
 	chargers, err := GetChargers()
 
 	for index, charger := range chargers {
+		lat, err := strconv.ParseFloat(charger.Latitude, 64)
+		if err != nil {
+			return nil, err
+		}
+		lng, err := strconv.ParseFloat(charger.Longitude, 64)
+		if err != nil {
+			return nil, err
+		}
 		stations = append(stations, models.AutoStationEntity{
 			IdByProvider: fmt.Sprintf("%d", index),
 			Name:         charger.Name,
@@ -29,8 +38,8 @@ func GetChargerEntities() (stations []models.AutoStationEntity, err error) {
 			ProviderCode: "ESPACE",
 			StationType:  "EV_CHARGER",
 			Active:       true,
-			Latitude:     charger.Latitude,
-			Longitude:    charger.Longitude,
+			Latitude:     lat,
+			Longitude:    lng,
 			CreatedAt:    time.Now(),
 			UpdatedAt:    time.Now(),
 		})
