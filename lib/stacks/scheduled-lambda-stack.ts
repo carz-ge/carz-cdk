@@ -1,7 +1,5 @@
 import {Duration, Environment, Stack, StackProps} from 'aws-cdk-lib';
 import {Construct} from 'constructs';
-
-import {CfnSchedule, CfnScheduleGroup} from 'aws-cdk-lib/aws-scheduler';
 import {Effect, Policy, PolicyStatement, Role, ServicePrincipal} from 'aws-cdk-lib/aws-iam';
 import {Architecture, DockerImageCode, DockerImageFunction, Tracing} from 'aws-cdk-lib/aws-lambda';
 import * as path from 'path';
@@ -47,6 +45,9 @@ export class ScheduledLambdaStack extends Stack {
             logRetention: RetentionDays.THREE_DAYS,
         });
 
+        const secret = Secret.fromSecretCompleteArn(this, `secret-${functionName}`,  "arn:aws:secretsmanager:eu-west-1:907239669915:secret:stations-fetcher-prod-eu-west-1-UNmVWw")
+        secret.grantRead(scheduledFunction.role!)
+
         // need to create role and policy for scheduler to invoke the lambda function
         const schedulerRole = new Role(this, `scheduler-role-${functionName}`, {
             assumedBy: new ServicePrincipal('scheduler.amazonaws.com'),
@@ -71,7 +72,7 @@ export class ScheduledLambdaStack extends Stack {
                 month: "*",
                 day: "*",
                 hour: "16",
-                minute: "0",
+                minute: "30",
             }),
             targets: [new LambdaFunction(scheduledFunction)],
         });
