@@ -2,13 +2,13 @@ package core
 
 import (
 	"log"
-	"main/src/chargers"
 	"main/src/initializers"
 	"main/src/models"
+	"main/src/stations"
 	"time"
 )
 
-func containsCharger(slice []models.ChargerEntity, target models.ChargerEntity) bool {
+func containsCharger(slice []models.AutoStationEntity, target models.AutoStationEntity) bool {
 	for _, c := range slice {
 		if c.Name == target.Name &&
 			c.Longitude == target.Longitude &&
@@ -20,16 +20,15 @@ func containsCharger(slice []models.ChargerEntity, target models.ChargerEntity) 
 }
 
 func GetAndUpdateChargers() {
-	chargerItems, done := chargers.GetChargers()
-	if done {
+	chargerItems, err := stations.GetChargers()
+	if err != nil {
 		return
 	}
 
-	//log.Println(chargerItems)
-	var chargerEntities []models.ChargerEntity
+	var chargerEntities []models.AutoStationEntity
 
 	for _, charger := range chargerItems {
-		chargerEntities = append(chargerEntities, models.ChargerEntity{
+		chargerEntities = append(chargerEntities, models.AutoStationEntity{
 			Name:      charger.Name,
 			Latitude:  charger.Latitude,
 			Longitude: charger.Longitude,
@@ -38,15 +37,18 @@ func GetAndUpdateChargers() {
 		})
 	}
 
-	//log.Println(chargerEntities)
-	var oldChargerEntities []models.ChargerEntity
+	SaveStations(chargerEntities)
+}
+
+func SaveStations(chargerEntities []models.AutoStationEntity) {
+	var oldChargerEntities []models.AutoStationEntity
 	initializers.DB.Find(&oldChargerEntities)
 
 	if len(oldChargerEntities) > len(chargerEntities) {
-		log.Println("new chargers are less that is was before")
+		log.Println("new stations are less that is was before")
 	}
 
-	var differentChargerEntities []models.ChargerEntity
+	var differentChargerEntities []models.AutoStationEntity
 
 	for _, entity := range oldChargerEntities {
 		if !containsCharger(chargerEntities, entity) {

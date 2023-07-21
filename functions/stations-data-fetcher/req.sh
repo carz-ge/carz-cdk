@@ -74,3 +74,14 @@ curl 'https://www.sgp.ge/ge/map/getResult' \
   -H 'sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"' \
   -H 'sec-ch-ua-mobile: ?0' \
   --compressed
+
+
+#  curl 'http://wissol.ge/adminarea/api/ajaxapi/get_fuel_prices?lang=geo' \
+#    -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+#    -H 'Accept-Language: en,en-US;q=0.9,ka;q=0.8' \
+#    -H 'Connection: keep-alive' \
+#    -H 'DNT: 1' \
+#    -H 'Origin: http://www.wissol.ge' \
+#    -H 'Referer: http://www.wissol.ge/' \
+#    --compressed \
+#    --insecure

@@ -6,7 +6,7 @@ import (
 )
 
 func RunMigrations() {
-	initializers.DB.AutoMigrate(&models.ChargerEntity{})
+	initializers.DB.AutoMigrate(&models.AutoStationEntity{})
 
 }
 

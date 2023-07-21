@@ -8,6 +8,8 @@ import * as path from 'path';
 import {Stage} from "../config/types";
 import {RetentionDays} from "aws-cdk-lib/aws-logs";
 import {ISecret, Secret} from "aws-cdk-lib/aws-secretsmanager";
+import {Rule, Schedule} from "aws-cdk-lib/aws-events";
+import {LambdaFunction} from "aws-cdk-lib/aws-events-targets";
 
 interface ScheduledLambdaStackProps extends StackProps {
     readonly env: Environment;
@@ -62,24 +64,36 @@ export class ScheduledLambdaStack extends Stack {
             ],
         });
 
-        // Create a group for the schedule (maybe you want to add more scheudles to this group the future?)
-        const group = new CfnScheduleGroup(this, `schedule-group-${functionName}`, {
-            name: 'SchedulesForLambda',
+
+        new Rule(this, `scheduler-rule-${functionName}`, {
+            schedule: Schedule.cron({
+                year: "*",
+                month: "*",
+                day: "*",
+                hour: "16",
+                minute: "0",
+            }),
+            targets: [new LambdaFunction(scheduledFunction)],
         });
 
-
-        // Creates the schedule to invoke every 5 minutes
-        new CfnSchedule(this, `schedule-cfn-${functionName}`, {
-            groupName: group.name,
-            flexibleTimeWindow: {
-                maximumWindowInMinutes: 5,
-                mode: 'FLEXIBLE',
-            },
-            scheduleExpression: 'cron(0 10-23/2 * * *)',
-            target: {
-                arn: scheduledFunction.functionArn,
-                roleArn: schedulerRole.roleArn,
-            },
-        });
+    //     // Create a group for the schedule (maybe you want to add more scheudles to this group the future?)
+    //     const group = new CfnScheduleGroup(this, `schedule-group-${functionName}`, {
+    //         name: 'SchedulesForLambda',
+    //     });
+    //
+    //
+    //     // Creates the schedule to invoke every 5 minutes
+    //     new CfnSchedule(this, `schedule-cfn-${functionName}`, {
+    //         groupName: group.name,
+    //         flexibleTimeWindow: {
+    //             maximumWindowInMinutes: 5,
+    //             mode: 'FLEXIBLE',
+    //         },
+    //         scheduleExpression: 'cron(30 16 * * ? *)',
+    //         target: {
+    //             arn: scheduledFunction.functionArn,
+    //             roleArn: schedulerRole.roleArn,
+    //         },
+    //     });
     }
 }

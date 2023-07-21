@@ -1,0 +1,1905 @@
+[
+  {
+    "address": "40 Kosta Khetagurovi Street",
+    "lat": "41.69894",
+    "lng": "44.80885",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/f6f864c41efbe371b4b314e80721becc.JPG",
+    "stationid": "57",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "10 Sanapiro Street named after Zviad Gamsakhurdia",
+    "lat": "41.71120",
+    "lng": "44.78848",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/7b38048343e5342adf4881e172546a29.jpg",
+    "stationid": "58",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "128 Tsotne Dadiani Street",
+    "lat": "41.71756",
+    "lng": "44.80252",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/31a68ec7459e0654f8e5378364d7e338.jpg",
+    "stationid": "59",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "1 Tornike Eristavi Street",
+    "lat": "41.74829",
+    "lng": "44.78038",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/0fac0e26cbca3ecaa3249be30e494d00.jpg",
+    "stationid": "60",
+    "features": [
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "64 Javakheti Street",
+    "lat": "41.69529",
+    "lng": "44.86957",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/95fb435d63ca2dcba904c8b51538ea26.jpg",
+    "stationid": "61",
+    "features": [
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "euro_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Crossing of Kairo and Javakheti Streets",
+    "lat": "41.68177",
+    "lng": "44.87073",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/da7c34ba6fa8c55897c55b11637cc253.jpg",
+    "stationid": "62",
+    "features": [
+      "1",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "64 George Bush Street",
+    "lat": "41.69051",
+    "lng": "44.84036",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/4a33773ed89a08dfdf0c90614e90b540.jpg",
+    "stationid": "63",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Left Bank of the River Mtkvari (Close to Eliava Market)",
+    "lat": "41.73209",
+    "lng": "44.77568",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/8b7953ba629bf8c41aec0b9ccd7cf847.jpg",
+    "stationid": "64",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "1\/4 Kavtaradze Street",
+    "lat": "41.72203",
+    "lng": "44.73734",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/88f2e4848455f67d241fe91d424148fd.jpg",
+    "stationid": "65",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Marshal Gelovani Avenue, close to the Police Station",
+    "lat": "41.75420",
+    "lng": "44.76972",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/878f2534b724731a50bac3609fa0a7fa.jpeg",
+    "stationid": "67",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "diesel_energy",
+      "euro_regular",
+      "eko_premium"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "66 Merab Kostava Street",
+    "lat": "41.71392",
+    "lng": "44.77997",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/318dc66812ca4d80985f1b035961a96b.jpg",
+    "stationid": "68",
+    "features": [
+      "1",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Right Bank of the River Mtkvari (Close to Bacteriophage)",
+    "lat": "41.72889",
+    "lng": "44.77660",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/52a7bc66720be831722466639fa50b1a.jpg",
+    "stationid": "69",
+    "features": [
+      "4",
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Marshal Gelovani Avenue, Dighomi Village turn",
+    "lat": "41.75941",
+    "lng": "44.76824",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/016fc609a4d7afa294bf2a5144763132.jpg",
+    "stationid": "70",
+    "features": [
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Between Peikrebi and Sarajishvili Streets",
+    "lat": "41.78494",
+    "lng": "44.79619",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/05b36d56432c1fc92e3b4e5b99b41459.jpg",
+    "stationid": "72",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Crossing of Chargali and Anapi Streets",
+    "lat": "41.77716",
+    "lng": "44.80584",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/3fbca8945db2c2971ab35cdd420ce7bd.jpg",
+    "stationid": "73",
+    "features": [],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "41 Davit Guramishvili Street",
+    "lat": "41.77901",
+    "lng": "44.79629",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/70a5a7114137896fd0c922cde669581d.jpg",
+    "stationid": "74",
+    "features": [
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_super",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_premium"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "David Aghmashenebeli Alley, Didi Dighomi exitway",
+    "lat": "41.78643",
+    "lng": "44.76887",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ab021f824560e6e0ee5a536bb19ac4e6.jpg",
+    "stationid": "75",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Right Bank of The River Mtkvari (Close to the former Ambulance Office)",
+    "lat": "41.70549",
+    "lng": "44.79343",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/9e36dd866cd737b39de49e6c7c074f30.jpg",
+    "stationid": "76",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Tamarashvili Street Dividing Line",
+    "lat": "41.71534",
+    "lng": "44.74541",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/cbf5004fc8e6aa89dcb44f1f8a17d0fb.jpg",
+    "stationid": "77",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "27 Vazha-Pshavela Avenue",
+    "lat": "41.72670",
+    "lng": "44.75665",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/aab04b153b2d3266733caba3fdbd6fbf.png",
+    "stationid": "78",
+    "features": [
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Left Bank of the River Mtkvari, Close to Mushtaidi Park",
+    "lat": "41.72098",
+    "lng": "44.78540",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/cbce6b71791376d0e35a81904a345912.jpg",
+    "stationid": "79",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "9th km. of David Aghmashenebeli Alley",
+    "lat": "41.77677",
+    "lng": "44.76916",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/91abf18271cc79212dd98df83eb53989.jpg",
+    "stationid": "80",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "13th km. of David Aghmashenebeli Alley",
+    "lat": "41.79375",
+    "lng": "44.77076",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/69ed63fda558b51f31b9918ffeba11cd.jpg",
+    "stationid": "81",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "4 Gobronidze Street",
+    "lat": "41.78919",
+    "lng": "44.81855",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/28a8363502bdb4a6ce7387d5c4e6ecdb.jpg",
+    "stationid": "82",
+    "features": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Opposite side of 71 K.Tsamebuli Avenue",
+    "lat": "41.68613",
+    "lng": "44.84921",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/334214462b2b12b116b32d39257821ea.jpg",
+    "stationid": "83",
+    "features": [
+      "4",
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Kakheti Highway, close to Lilo",
+    "lat": "41.69270",
+    "lng": "44.96717",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/5854e2d4ba8f078a7d4613ec1a02de5a.jpg",
+    "stationid": "86",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "1 Vekua Street",
+    "lat": "41.79184",
+    "lng": "44.81479",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/630291c5d2f4c8f81cdfb579a841a28c.jpg",
+    "stationid": "89",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Kakheti Highway, close to the airport",
+    "lat": "41.68475",
+    "lng": "44.88947",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/5bdbb89048193e2ebd2771fd6c894026.jpg",
+    "stationid": "90",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "2a Jikia Street",
+    "lat": "41.71895",
+    "lng": "44.71767",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/3df8945973594a2aecc985cec76168c6.jpg",
+    "stationid": "92",
+    "features": [
+      "4",
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Crossing of Nutsubidze and Gamrekeli Streets",
+    "lat": "41.72721",
+    "lng": "44.73392",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/fdafe813f0affbb83436e8d7e2255b59.jpg",
+    "stationid": "93",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Left Bank of the River Mtkvari, Close to Ortachala HPP",
+    "lat": "41.68588",
+    "lng": "44.82311",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/133ec7f2a88cde34f6934f6f6df1ef7b.jpg",
+    "stationid": "95",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "35a Tbel-Abuseridze Street",
+    "lat": "41.63498",
+    "lng": "41.61485",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/86d83b44f8943c283c2a23f8dbdd6bd1.jpg",
+    "stationid": "96",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "King Tamar Avenue",
+    "lat": "41.65739",
+    "lng": "41.67603",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/d47d286a57a24a90c5b2874eeecc4850.png",
+    "stationid": "97",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "24 Tbel Abuseridze Street",
+    "lat": "41.63479",
+    "lng": "41.61460",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/2f00391d47e737156867596fe3096bd7.jpg",
+    "stationid": "98",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "183 Airport Highway",
+    "lat": "41.60936",
+    "lng": "41.61408",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/7473fb9ccf5496e9a24b4a80eaf0b6d4.jpg",
+    "stationid": "99",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "4-8 Leonidze Street",
+    "lat": "41.62350",
+    "lng": "41.62467",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/1831d97bb4703fdb7cbf320239aa3343.jpg",
+    "stationid": "100",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Village Angisa, Airport Highway 92 ",
+    "lat": "41.62497",
+    "lng": "41.61115",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/6f3821246ffd5701a436f9f2fb21d08a.jpg",
+    "stationid": "101",
+    "features": [
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KHELVACHAURI",
+    "center_type": "ags"
+  },
+  {
+    "address": "26 Shota Rustaveli Street",
+    "lat": "41.81417",
+    "lng": "41.77797",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/5f4c3627ce00d625bde61014d8809ffe.jpg",
+    "stationid": "102",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KOBULETI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Village Kakhaberi",
+    "lat": "41.61667",
+    "lng": "41.61983",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ada545774563a0034adbeea55f9c7e84.jpg",
+    "stationid": "103",
+    "features": [],
+    "fuels": [
+      "eko_super",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_diesel"
+    ],
+    "city": "KHELVACHAURI",
+    "center_type": "ags"
+  },
+  {
+    "address": "77 Pushkini Street",
+    "lat": "41.64122",
+    "lng": "41.63235",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/25f9c350e2996920ed9390f0b6a375bf.jpg",
+    "stationid": "104",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Akhalsopeli, 6 Apsarosi Highway",
+    "lat": "41.58578",
+    "lng": "41.59104",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ea3b67c1e228999a54bd418996587f7e.jpg",
+    "stationid": "105",
+    "features": [
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Shuakhevi, Gorkhanauli",
+    "lat": "41.62783",
+    "lng": "42.17309",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/de9f17281ada0ca7259c1f5c9e60029f.jpg",
+    "stationid": "106",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "SHUAKHEVI",
+    "center_type": "ags"
+  },
+  {
+    "address": "56 Gamsakhurdia Street",
+    "lat": "42.25581",
+    "lng": "42.66366",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/7f8a4b95cd44b151cb655de125ee24e1.jpg",
+    "stationid": "107",
+    "features": [
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "98 Lado Asatiani Street",
+    "lat": "42.24911",
+    "lng": "42.69345",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/dd40040fe5dae5c1dd93fb61079c163c.jpg",
+    "stationid": "108",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "12 J.Shartava third turn, Zviad Gamsakhurdia Avenue",
+    "lat": "42.26200",
+    "lng": "42.67350",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/df3fea6c38f3caa71f760edc04686e3b.png",
+    "stationid": "109",
+    "features": [
+      "1",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "15a David and Konstantine Street",
+    "lat": "42.27523",
+    "lng": "42.70446",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/f432e4e6a52737f1bdc4d7c88625c29b.jpg",
+    "stationid": "110",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "89 David Aghmashenebeli Street",
+    "lat": "42.49467",
+    "lng": "41.85979",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/2b1572cc6676c5e8054ed840fab305d9.jpg",
+    "stationid": "111",
+    "features": [
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "ZUGDIDI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Samegrelo Square",
+    "lat": "42.14762",
+    "lng": "41.68069",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/b91f48bd6bdb7e4386c86a986e4e36e2.jpg",
+    "stationid": "112",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "POTI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Kokaia Alley",
+    "lat": "42.17350",
+    "lng": "41.67989",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/11fec659c2b84aae266cdc6cd17b3689.jpg",
+    "stationid": "113",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "POTI",
+    "center_type": "ags"
+  },
+  {
+    "address": "2 Gegidze Street",
+    "lat": "42.15130",
+    "lng": "41.67093",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/5eae3c52874e7dbc0263d7f585fe47c1.jpg",
+    "stationid": "114",
+    "features": [],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "POTI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Crossing of Sakarkhno and Staroselski Streets",
+    "lat": "42.11264",
+    "lng": "43.02485",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/eb6c7d7b0f4e1ae1ed2edbdba1d2a9cb.jpg",
+    "stationid": "115",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "ZESTAPONI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Magnetiti Turn",
+    "lat": "41.99224",
+    "lng": "41.78149",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/7fce810e07289b96ad9da289610a2250.jpg",
+    "stationid": "116",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "UREKI",
+    "center_type": "ags"
+  },
+  {
+    "address": "168 Mshvidoba Street",
+    "lat": "42.26660",
+    "lng": "42.07082",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/45a1dcbd1dfd7c797d5f06f3b478a69a.jpg",
+    "stationid": "117",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "SENAKI",
+    "center_type": "ags"
+  },
+  {
+    "address": "19 King Tamar Street, Village Skhvitori",
+    "lat": "42.33396",
+    "lng": "43.41116",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/b52530a785eb03f664330edc5dc890c8.jpg",
+    "stationid": "118",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "SACHKHERE",
+    "center_type": "ags"
+  },
+  {
+    "address": "9 April Street",
+    "lat": "42.02064",
+    "lng": "42.24337",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/081234d680a1b0d8d2feda9e0f389dce.jpg",
+    "stationid": "119",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "CHOKHATAURI",
+    "center_type": "ags"
+  },
+  {
+    "address": "2 King Tamar Street",
+    "lat": "42.07044",
+    "lng": "42.82344",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ed69fe6bce78e2bca2ff8bcf8dbd629b.jpg",
+    "stationid": "120",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BAGHDATI",
+    "center_type": "ags"
+  },
+  {
+    "address": "8 Republic Street",
+    "lat": "42.16563",
+    "lng": "42.34724",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/66f95a832e6d8708ccb1c61590d84ab1.jpg",
+    "stationid": "121",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "SAMTREDIA",
+    "center_type": "ags"
+  },
+  {
+    "address": "2 St.George Street",
+    "lat": "41.91429",
+    "lng": "42.00145",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ee95dc0ee79cf2d52b3766427ec752ea.jpg",
+    "stationid": "122",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel"
+    ],
+    "city": "OZURGETI",
+    "center_type": "ags"
+  },
+  {
+    "address": "30 Grishashvili Street",
+    "lat": "42.26829",
+    "lng": "42.69858",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/9baf6389fe7b8d2c094eda2e0a317b8b.jpg",
+    "stationid": "123",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "47 Avtomshenebeli Street",
+    "lat": "42.25900",
+    "lng": "42.62365",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/fdf10c2277267f2b7c618af59476e2dc.jpg",
+    "stationid": "124",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "328 Rustaveli Street",
+    "lat": "42.50126",
+    "lng": "41.84406",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/e054157f383ddaf8c03b834850685967.png",
+    "stationid": "125",
+    "features": [],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel"
+    ],
+    "city": "ZUGDIDI",
+    "center_type": "ags"
+  },
+  {
+    "address": "167 Rustaveli Street",
+    "lat": "42.50939",
+    "lng": "41.86016",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/9ff53dac716a95fdf62d5daeb3ef69cd.jpg",
+    "stationid": "126",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "ZUGDIDI",
+    "center_type": "ags"
+  },
+  {
+    "address": "29 Erekle Parjiani Street",
+    "lat": "43.04092",
+    "lng": "42.71115",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/fcca895dbc8d566f08f03f66424d4c50.jpg",
+    "stationid": "127",
+    "features": [],
+    "fuels": [
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_diesel"
+    ],
+    "city": "MESTIA",
+    "center_type": "ags"
+  },
+  {
+    "address": "22 Tskhinvali Highway",
+    "lat": "41.99694",
+    "lng": "44.11173",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/b86b9ffd209ea21f73db23a1d6f6d3b8.jpg",
+    "stationid": "128",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "GORI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Tbilisi-Khashuri Highway (by Village Osiauri)",
+    "lat": "41.99513",
+    "lng": "44.11173",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ed2b7838171b26276c7eadb3be72f2b5.jpg",
+    "stationid": "129",
+    "features": [
+      "1",
+      "2",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KHASHURI",
+    "center_type": "ags"
+  },
+  {
+    "address": "120 Shota Rustaveli Street",
+    "lat": "41.91880",
+    "lng": "45.49624",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/db2ce3f72daf128bb566b78e8e5b1b45.jpg",
+    "stationid": "130",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TELAVI",
+    "center_type": "ags"
+  },
+  {
+    "address": "David Aghmashenebeli Street",
+    "lat": "41.92521",
+    "lng": "45.47095",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/8db31269b21dd9c86195cfc7f29aee07.jpg",
+    "stationid": "131",
+    "features": [
+      "1",
+      "2",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "TELAVI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Adjacent to Bebristsikhe Castle",
+    "lat": "41.85744",
+    "lng": "44.72266",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/526ccb01c9366c9c1e49ec3610af7ffa.jpg",
+    "stationid": "132",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "MTSKHETA",
+    "center_type": "ags"
+  },
+  {
+    "address": "4 Zh.Shartava Street",
+    "lat": "41.56503",
+    "lng": "44.97387",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/911a214421df8fad2dbc3ee4d10410c2.png",
+    "stationid": "133",
+    "features": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "RUSTAVI",
+    "center_type": "ags"
+  },
+  {
+    "address": "24 Eka Bezhanishvili Street",
+    "lat": "41.61180",
+    "lng": "45.92383",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/b5798534e19e26439b330c02d5264538.jpg",
+    "stationid": "134",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "SIGHNAGHI",
+    "center_type": "ags"
+  },
+  {
+    "address": "26 May Street",
+    "lat": "41.48698",
+    "lng": "44.79798",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/5126ac13ebc593cea1291cc797a8a1a5.jpg",
+    "stationid": "135",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "MARNEULI",
+    "center_type": "ags"
+  },
+  {
+    "address": "17 David Aghmashenebeli Street",
+    "lat": "41.47031",
+    "lng": "45.08412",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/d8c917d55997258f4907baae4d2ec8f0.jpg",
+    "stationid": "136",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "GARDABANI",
+    "center_type": "ags"
+  },
+  {
+    "address": "David Aghmashenebeli Highway",
+    "lat": "41.84158",
+    "lng": "43.38707",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/8f537d93ed1384c19bf805bfd9ed2524.jpg",
+    "stationid": "138",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "BORJOMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "115 David Aghmashenebeli Street",
+    "lat": "41.39906",
+    "lng": "43.48844",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/3c3dc20895f8bcbe6d7e7118203a369c.jpg",
+    "stationid": "140",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "AKHALKALAKI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Village Tiniskhidi",
+    "lat": "42.01624",
+    "lng": "44.06526",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/a866f87d2cd31ef591a8eb8069917c9d.jpg",
+    "stationid": "141",
+    "features": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "GORI",
+    "center_type": "ags"
+  },
+  {
+    "address": "43 Chavchavadze Street",
+    "lat": "41.94378",
+    "lng": "45.81507",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/fd81f6104842c3c8dd8ac7eb27a0fa82.jpg",
+    "stationid": "142",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KVARELI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Kazbeghi Region, Gudauri",
+    "lat": "42.46127",
+    "lng": "44.48512",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/191046fb4cccb0d83deb5b05696c3bd3.jpg",
+    "stationid": "143",
+    "features": [
+      "1",
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "GUDAURI",
+    "center_type": "ags"
+  },
+  {
+    "address": "110 King Tamar Street",
+    "lat": "42.11436",
+    "lng": "43.03160",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/3ba89c119e1909105f5ff34ab16ecc4b.jpg",
+    "stationid": "144",
+    "features": [
+      "2"
+    ],
+    "fuels": [
+      "wissol_gas"
+    ],
+    "city": "ZESTAPONI",
+    "center_type": "ags"
+  },
+  {
+    "address": "1 Tamarashvili Street",
+    "lat": "41.64010",
+    "lng": "42.99496",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/ba8e6008fe6c492f2f93729c38ffce3f.jpg",
+    "stationid": "159",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "AKHALTSIKHE",
+    "center_type": "ags"
+  },
+  {
+    "address": "98 Lado Asatiani Street",
+    "lat": "42.24911",
+    "lng": "42.69345",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/e17b433f084cc4aee8a9e46f140a0520.jpg",
+    "stationid": "162",
+    "features": [],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "office"
+  },
+  {
+    "address": "Sarajishvili Avenue (Adjacent to the Wine Cellar)",
+    "lat": "41.78740",
+    "lng": "44.79993",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/de2b61e447c77418f528dc137c3601b0.jpg",
+    "stationid": "163",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "308 P. Khalvashi Street",
+    "lat": "41.61667",
+    "lng": "41.61983",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/164d827919f462c63464e0afdf8924b8.jpg",
+    "stationid": "165",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "13 Kostava Street",
+    "lat": "41.60154",
+    "lng": "44.10498",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/cfe88509f83b91025be03b766e325e96.jpg",
+    "stationid": "166",
+    "features": [],
+    "fuels": [
+      "euro_regular",
+      "eko_premium",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel"
+    ],
+    "city": "TSALKA",
+    "center_type": "ags"
+  },
+  {
+    "address": "Bagrationi Street",
+    "lat": "41.63332000",
+    "lng": "41.62175000",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/bfd081bf410bca1cfabddca18476f118.jpg",
+    "stationid": "170",
+    "features": [
+      "2"
+    ],
+    "fuels": [
+      "wissol_gas"
+    ],
+    "city": "BATUMI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Batumi International Airport Highway 183",
+    "lat": "41.60936",
+    "lng": "41.61408",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/60bc6b9821e67f09284f981b6a2b84b4.jpg",
+    "stationid": "171",
+    "features": [
+      "1",
+      "6"
+    ],
+    "fuels": [
+      "eko_super",
+      "eko_premium",
+      "wissol_gas",
+      "diesel_energy",
+      "euro_diesel",
+      "eko_diesel",
+      "euro_regular"
+    ],
+    "city": "BATUMI",
+    "center_type": "office"
+  },
+  {
+    "address": "74b I.Chavchavadze Avenue",
+    "lat": "41.71113",
+    "lng": "44.75363",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/30adef613d999fba7e4b66605e411c17.jpg",
+    "stationid": "172",
+    "features": [],
+    "fuels": [
+      "wissol_gas"
+    ],
+    "city": "TBILISI",
+    "center_type": "office"
+  },
+  {
+    "address": "16 Nikea Str.",
+    "lat": "42.2416801",
+    "lng": "42.6915709",
+    "poster": "",
+    "stationid": "173",
+    "features": [
+      "1",
+      "2",
+      "3"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "KUTAISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Samegrelo Square",
+    "lat": "42.14729",
+    "lng": "41.68087",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/23a254e18bcc420a07478b8b082d5d6e.png",
+    "stationid": "175",
+    "features": [],
+    "fuels": [
+      "eko_super",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_diesel"
+    ],
+    "city": "POTI",
+    "center_type": "office"
+  },
+  {
+    "address": "Between Gldani 1 and Gldani 4\/5",
+    "lat": "41.80221",
+    "lng": "44.82739",
+    "poster": "http:\/\/wissol.ge\/adminarea\/public\/uploads\/fcf16f49d3f82ffd3f8fc49d44e51825.png",
+    "stationid": "177",
+    "features": [
+      "2"
+    ],
+    "fuels": [
+      "wissol_gas",
+      "euro_diesel",
+      "diesel_energy",
+      "euro_regular",
+      "eko_premium"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Zestafoni, Argveta",
+    "lat": "42.14769",
+    "lng": "42.96537",
+    "poster": "",
+    "stationid": "179",
+    "features": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel",
+      "wissol_gas"
+    ],
+    "city": "ZESTAPONI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Tbilisi-Okrokana Road",
+    "lat": "41.68333",
+    "lng": "44.77522",
+    "poster": "",
+    "stationid": "180",
+    "features": [
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "diesel_energy",
+      "euro_regular",
+      "eko_premium"
+    ],
+    "city": "TBILISI",
+    "center_type": "ags"
+  },
+  {
+    "address": "Saguramo Road",
+    "lat": "41.8810147",
+    "lng": "44.7289617",
+    "poster": "",
+    "stationid": "181",
+    "features": [
+      "3",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_diesel",
+      "euro_regular",
+      "eko_premium"
+    ],
+    "city": "saguramo",
+    "center_type": "ags"
+  },
+  {
+    "address": "8 Tornike Eristavi Street",
+    "lat": "41.74829",
+    "lng": "44.78038",
+    "poster": "",
+    "stationid": "182",
+    "features": [
+      "4",
+      "6"
+    ],
+    "fuels": [
+      "euro_diesel",
+      "eko_premium",
+      "diesel_energy",
+      "euro_regular",
+      "eko_super",
+      "eko_diesel"
+    ],
+    "city": "TBILISI",
+    "center_type": "office"
+  }
+]

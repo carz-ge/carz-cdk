@@ -1,0 +1,3714 @@
+{
+  "4170": {
+    "id": "4170",
+    "name": "Lia",
+    "description": "Zugdidi, Village Lia",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.650997243764",
+    "longitude": "42.000576880208",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4125": {
+    "id": "4125",
+    "name": "Ambrolauri, Vazha-Pshavela Str. 26",
+    "description": "Ambrolauri, Vazha-Pshavela Str. #26",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.5267",
+    "longitude": "43.15286",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4153": {
+    "id": "4153",
+    "name": "Gulf Express \u2022 Zugdidi Ulevi \u2022",
+    "description": "Gulf Express \u2022 Zugdidi Ulevi \u2022 \nZugdidi, Ninoshvili Str. #2\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.507975201142",
+    "longitude": "41.878941019325",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4153\/picture\/656644fcce915c1ea68e1c679d9e5b91.jpg"
+  },
+  "4154": {
+    "id": "4154",
+    "name": "Zugdidi City, Kostava Str. 110",
+    "description": "Zugdidi City, Kostava Str. #110",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.50773",
+    "longitude": "41.869415",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4236": {
+    "id": "4236",
+    "name": "Gulf Express \u2022 Zugdidi Rustaveli",
+    "description": "Gulf Express \u2022 Zugdidi Rustaveli \u2022 \nZugdidi, Rustaveli Str. #354\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.500088",
+    "longitude": "41.839707",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4236\/picture\/95fb40d31dd7fcc74d71476b3619a163.jpg"
+  },
+  "4100": {
+    "id": "4100",
+    "name": "Gulf Express \u2022 Zugdidi",
+    "description": "Gulf Express \u2022 Zugdidi \u2022 \nZugdidi, Gamsakhurdia Str. #204\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.491667",
+    "longitude": "41.861409",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4100\/picture\/75b9f7914f759a4ce708dca6c52be12e.jpg"
+  },
+  "4212": {
+    "id": "4212",
+    "name": "Chitatskari",
+    "description": "Chitatskari",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.4789987374",
+    "longitude": "41.845247473945",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4174": {
+    "id": "4174",
+    "name": "Martvili, Rustaveli Str. 1",
+    "description": "Martvili, Rustaveli Str. 1",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.41359",
+    "longitude": "42.37765",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4080": {
+    "id": "4080",
+    "name": "Tkibuli",
+    "description": "Tkibuli, Rustaveli Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.361568",
+    "longitude": "43.003272",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4113": {
+    "id": "4113",
+    "name": "Gulf Express \u2022 Tkibuli Express",
+    "description": "Gulf Express \u2022 Tkibuli Express \u2022 \nRustaveli Str. #10\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.361216",
+    "longitude": "43.002699",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4216": {
+    "id": "4216",
+    "name": "Khoni, Village Kontuati",
+    "description": "Khoni, Village Kontuati",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.347476959869",
+    "longitude": "42.432278421154",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4215": {
+    "id": "4215",
+    "name": "Khobi, Village Pirveli Maisi",
+    "description": "Khobi, Village Pirveli Maisi",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.335545698639",
+    "longitude": "41.8714200172",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4193": {
+    "id": "4193",
+    "name": "Sachkhere",
+    "description": "Sachkhere",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.334191837727",
+    "longitude": "43.394172218073",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4211": {
+    "id": "4211",
+    "name": "Tskaltubo",
+    "description": "Tskaltubo",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.326309842711",
+    "longitude": "42.611779895055",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4217": {
+    "id": "4217",
+    "name": "Khoni. Chanturia Str. 64",
+    "description": "Khoni. Chanturia Str. #64",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.321447299415",
+    "longitude": "42.430508163204",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4078": {
+    "id": "4078",
+    "name": "Sachkhere Merjevi",
+    "description": "Sachkhere district, Merjevi Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.321019",
+    "longitude": "43.440227",
+    "fuel_types": [
+      "DE",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4089": {
+    "id": "4089",
+    "name": "Senaki",
+    "description": "Senaki, Chavchavadze Str. #20",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.26811",
+    "longitude": "42.066742",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4127": {
+    "id": "4127",
+    "name": "Agmashenebeli, Agmashenebeli Ave. 20a",
+    "description": "Agmashenebeli, Kutaisi, Agmashenebeli Ave. #20a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.26232",
+    "longitude": "42.70276",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4126": {
+    "id": "4126",
+    "name": "Argoil",
+    "description": "Argoil",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.26157472414",
+    "longitude": "42.682740416756",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4230": {
+    "id": "4230",
+    "name": "Kutaisi 9 April",
+    "description": "Kutaisi, 9 April Str. #2a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.260016",
+    "longitude": "42.664958",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4088": {
+    "id": "4088",
+    "name": "Maghlaki",
+    "description": "Tskaltubo district, Maghaki Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.259548",
+    "longitude": "42.560201",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4144": {
+    "id": "4144",
+    "name": "Gugunava, Gugunava Str. 10 b\/d",
+    "description": "Gugunava, Kutaisi, Gugunava Str. #10 b\/d",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.251154",
+    "longitude": "42.67722",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4068": {
+    "id": "4068",
+    "name": "Avangardi",
+    "description": "Kutaisi, Gugunava Str. #18",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.250446",
+    "longitude": "42.672602",
+    "fuel_types": [
+      "DE",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4229": {
+    "id": "4229",
+    "name": "Gulf Express \u2022 Chavchavadze",
+    "description": "Gulf Express \u2022 Chavchavadze \u2022 Kutaisi, I. Chavchavadze #8 and L. Asatiani #98 Street crossing.\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.249778",
+    "longitude": "42.688924",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4112": {
+    "id": "4112",
+    "name": "Gulf Express \u2022 Totali",
+    "description": "Gulf Express \u2022 Totali \u2022 \nKutaisi, Tsereteli str. #222a.\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.24661",
+    "longitude": "42.709528",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4108": {
+    "id": "4108",
+    "name": "Gulf Express \u2022 Nikea",
+    "description": "Gulf Express \u2022 Nikea \u2022 \nKutaisi, Nikea Str. #10-12a\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.244314",
+    "longitude": "42.692671",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4077": {
+    "id": "4077",
+    "name": "Korbouli",
+    "description": "Sachkhere district, Korboli Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.239027",
+    "longitude": "43.4724",
+    "fuel_types": [
+      "DE",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4180": {
+    "id": "4180",
+    "name": "Nikea, Nikea Str. 19",
+    "description": "Nikea, Nikea Str. #19a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.234371953207",
+    "longitude": "42.69199348736",
+    "fuel_types": [
+      "CNG",
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "CNG",
+      "EXP",
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4231": {
+    "id": "4231",
+    "name": "Gulf Express \u2022 Kvitiri",
+    "description": "Gulf Express \u2022 Kvitiri \u2022 Tskaltubo District, Village Kvitiri.\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.225715",
+    "longitude": "42.590366",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4231\/picture\/77262af9d10f8d97ccaeef0b9bca3bf9.jpg"
+  },
+  "4119": {
+    "id": "4119",
+    "name": "Abasha, Village Norio",
+    "description": "Abasha, Village Norio",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.216756",
+    "longitude": "42.186191",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4206": {
+    "id": "4206",
+    "name": "Kutaisi Autoban",
+    "description": "Kutaisi Autovan. Village Simoneti",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.20338",
+    "longitude": "42.84653",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4200": {
+    "id": "4200",
+    "name": "Poti, Little Poti",
+    "description": "Poti, Little Poti",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.189683",
+    "longitude": "41.708187",
+    "fuel_types": [
+      "CNG",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "CNG",
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4157": {
+    "id": "4157",
+    "name": "Terjola, Rustaveli Str. 137a",
+    "description": "Terjola, Rustaveli Str. #137a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.186324",
+    "longitude": "42.975679",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4163": {
+    "id": "4163",
+    "name": "Kvakhchiri",
+    "description": "Kvakhchiri",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.178141320083",
+    "longitude": "42.734118130437",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4158": {
+    "id": "4158",
+    "name": "Ianeti",
+    "description": "Ianeti",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.176875",
+    "longitude": "42.44046",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4195": {
+    "id": "4195",
+    "name": "Siktarva",
+    "description": "Siktarva",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.174031",
+    "longitude": "42.933864",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4115": {
+    "id": "4115",
+    "name": "Gulf Express \u2022 Poti Larnaka",
+    "description": "Gulf Express \u2022 Poti Larnaka \u2022 \nPoti, Larnaka Str.\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.1625",
+    "longitude": "41.682334",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4201": {
+    "id": "4201",
+    "name": "Potioili, Larnaka Str.",
+    "description": "Potioili, Larnaka Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.160273082566",
+    "longitude": "41.684238681604",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4178": {
+    "id": "4178",
+    "name": "Oil Terminal (Samtredia)",
+    "description": "Oil Terminal (Samtredia, Kakabadze Str. #10)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.157189",
+    "longitude": "42.338118",
+    "fuel_types": [],
+    "poi_types": [
+      "OB"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4197": {
+    "id": "4197",
+    "name": "Tao, Kostava Str. 47",
+    "description": "Tao, Kostava Str. #47",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.15585152528",
+    "longitude": "42.30451407694",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4114": {
+    "id": "4114",
+    "name": "Gulf Express \u2022 Poti Albatrosi",
+    "description": "Gulf Express \u2022 Poti Albatrosi \u2022\nPoti, Rekvava Str. #9\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.149064",
+    "longitude": "41.675294",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4081": {
+    "id": "4081",
+    "name": "Kitsnisi",
+    "description": "Gori district, Kitsnisi Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.131305",
+    "longitude": "44.076697",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4151": {
+    "id": "4151",
+    "name": "Zestafoni, Tamar Mepe Str. 1",
+    "description": "Zestafoni, Tamar Mepe Str. #1",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.113672",
+    "longitude": "43.029872",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4076": {
+    "id": "4076",
+    "name": "Zestafoni Pero",
+    "description": "Zestafoni, Rustaveli Str. #43",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.103647",
+    "longitude": "43.022816",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4194": {
+    "id": "4194",
+    "name": "Sajavakho",
+    "description": "Sajavakho",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.10351",
+    "longitude": "42.292581",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4210": {
+    "id": "4210",
+    "name": "Dzirula Resto",
+    "description": "Dzirula Resto",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.089832",
+    "longitude": "43.164733",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4124": {
+    "id": "4124",
+    "name": "Ali",
+    "description": "Ali",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.087051999748",
+    "longitude": "43.653509643306",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4169": {
+    "id": "4169",
+    "name": "Lanchkhuti, Zhordania Str. 72",
+    "description": "Lanchkhuti, Zhordania Str. #72",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.084840952489",
+    "longitude": "42.041826126252",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4075": {
+    "id": "4075",
+    "name": "Vani",
+    "description": "Vani, Tamar Mepe Str. #15",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.084673",
+    "longitude": "42.515175",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4074": {
+    "id": "4074",
+    "name": "Dusheti",
+    "description": "Dusheti, Rustaveli Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.082402",
+    "longitude": "44.690202",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4121": {
+    "id": "4121",
+    "name": "Agara",
+    "description": "Agara",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.036948238493",
+    "longitude": "43.805808153381",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4203": {
+    "id": "4203",
+    "name": "Kareli, Village Bebnisi",
+    "description": "Kareli, Village Bebnisi",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.031101120933",
+    "longitude": "43.902356949083",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4094": {
+    "id": "4094",
+    "name": "Gulf Express \u2022 Akhmeta",
+    "description": "Gulf Express \u2022 Akhmeta \u2022 \nAkhmeta, Sanapiro Str. #1b\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.026349",
+    "longitude": "45.23062",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4142": {
+    "id": "4142",
+    "name": "Gori Autoban, Village Berbuki",
+    "description": "Gori Autoban, Village Berbuki",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.01853447292",
+    "longitude": "44.125184145202",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4082": {
+    "id": "4082",
+    "name": "Kintsvisi",
+    "description": "Kareli, Vazha-Pshavela Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.017844",
+    "longitude": "43.878783",
+    "fuel_types": [
+      "DE",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4118": {
+    "id": "4118",
+    "name": "Gulf Express \u2022 Chokhatauri",
+    "description": "Gulf Express \u2022 Chokhatauri \u2022 \nChokhatauri, Lomtatidze Str. #1\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.009867",
+    "longitude": "42.235613",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4071": {
+    "id": "4071",
+    "name": "Badagauri",
+    "description": "Khashuri district, Osiauri village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "42.001241",
+    "longitude": "43.663798",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4073": {
+    "id": "4073",
+    "name": "Gori Exit",
+    "description": "Gori, Sukhishvili Str. #188",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.999434",
+    "longitude": "44.123597",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4184": {
+    "id": "4184",
+    "name": "Osiauri",
+    "description": "Osiauri",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.995086487089",
+    "longitude": "43.64011408318",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4143": {
+    "id": "4143",
+    "name": "Gori, Tskhinvali Highway 8",
+    "description": "Gori, Tskhinvali Highway 8",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.993677",
+    "longitude": "44.111148",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4213": {
+    "id": "4213",
+    "name": "Khashuri, Stalini Str.",
+    "description": "Khashuri, Stalini Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.989905045734",
+    "longitude": "43.613818314305",
+    "fuel_types": [
+      "CNG",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "CNG",
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4096": {
+    "id": "4096",
+    "name": "Gulf Express \u2022 Gori Castles",
+    "description": "Gulf Express \u2022 Gori Castles \u2022 \nGori, Gogebashvili Str. #2\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.987252",
+    "longitude": "44.110032",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4232": {
+    "id": "4232",
+    "name": "Gulf Express \u2022 Khashuri 2",
+    "description": "Gulf Express \u2022 Khashuri 2 \u2022 Stalini Str. #148\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.986081",
+    "longitude": "43.596676",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4232\/picture\/bcdcf612bf3087a9a1ca127657c3d296.jpg"
+  },
+  "4204": {
+    "id": "4204",
+    "name": "Kvishkheti",
+    "description": "Kvishkheti",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.965703",
+    "longitude": "43.520293",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4085": {
+    "id": "4085",
+    "name": "Dvabzu",
+    "description": "Ozurgeti municipality, Dvabzu Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.957909",
+    "longitude": "42.062945",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4198": {
+    "id": "4198",
+    "name": "Ureki, Village Tskaltsminda",
+    "description": "Ureki, Village Tskaltsminda",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.949875217455",
+    "longitude": "41.778921809428",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4104": {
+    "id": "4104",
+    "name": "Gulf Express \u2022 Kaspi",
+    "description": "Gulf Express \u2022 Kaspi \u2022 \nKaspi, Aghmashenebeli Str. #15a\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.940985",
+    "longitude": "44.421229",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4161": {
+    "id": "4161",
+    "name": "Kaspi Optima, Agmashenebeli Str. #168",
+    "description": "Kaspi Optima, Agmashenebeli Str. #168",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.940930819102",
+    "longitude": "44.421309286877",
+    "fuel_types": [
+      "ED",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4160": {
+    "id": "4160",
+    "name": "Kaspi Energy, Agmashenebeli Str. #104",
+    "description": "Kaspi Energy, Agmashenebeli Str. #104",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.930127",
+    "longitude": "44.42143",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4208": {
+    "id": "4208",
+    "name": "Kvareli, Meurneoba\u00a0Settlement",
+    "description": "Kvareli, Meurneoba\u00a0Settlement",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.929831453647",
+    "longitude": "45.823791936396",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4156": {
+    "id": "4156",
+    "name": "Telavi, Village Vardisubani",
+    "description": "Telavi, Village Vardisubani",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.927365",
+    "longitude": "45.456223",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4101": {
+    "id": "4101",
+    "name": "Gulf Express \u2022 Telavi Center",
+    "description": "Gulf Express \u2022 Telavi Center \u2022 \nAghmashenebeli Str. #64\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.925783",
+    "longitude": "45.467005",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4155": {
+    "id": "4155",
+    "name": "Telavi Tsivi 2",
+    "description": "Telavi Tsivi 2, Rustaveli Str. #128 (Phirosmani Str. crossing)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.918883",
+    "longitude": "45.49765",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4102": {
+    "id": "4102",
+    "name": "Gulf Express \u2022 Telavi Tsivi",
+    "description": "Gulf Express \u2022 Telavi Tsivi \u2022 \nDavitashvili Str. #26\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.918655",
+    "longitude": "45.494718",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4182": {
+    "id": "4182",
+    "name": "Ozurgeti, Likhauri. Ekvtime Takaishvili street #69",
+    "description": "Ozurgeti, Likhauri. Ekvtime Takaishvili street #69",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.905259002724",
+    "longitude": "42.001537111035",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4179": {
+    "id": "4179",
+    "name": "Natakhtari",
+    "description": "Natakhtari",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.901849445131",
+    "longitude": "44.721162941684",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4128": {
+    "id": "4128",
+    "name": "Akhalsopeli",
+    "description": "Akhalsopeli",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.898205915935",
+    "longitude": "45.957427945365",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4083": {
+    "id": "4083",
+    "name": "Tserovani Autoban",
+    "description": "Mtskheta district, Tserovani Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.894315",
+    "longitude": "44.711088",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4134": {
+    "id": "4134",
+    "name": "Bordjomi, Near Rustaveli Str.",
+    "description": "Bordjomi, Near Rustaveli Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.842278706815",
+    "longitude": "43.387024131051",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4117": {
+    "id": "4117",
+    "name": "Gulf Express \u2022 Kobuleti 2",
+    "description": "Gulf Express \u2022 Kobuleti 2 \u2022 \nRustaveli Str. #170\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.841578",
+    "longitude": "41.780576",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4167": {
+    "id": "4167",
+    "name": "Lagodekhi, Vil. Shroma",
+    "description": "Lagodekhi, Vil. Shroma",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.825126",
+    "longitude": "46.263312",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4205": {
+    "id": "4205",
+    "name": "Kobuleti Bazari",
+    "description": "Kobuleti, Tavisupleba str. near #23",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.8208",
+    "longitude": "41.78318",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4221": {
+    "id": "4221",
+    "name": "Georgiana",
+    "description": "Georgiana",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.818213719584",
+    "longitude": "44.770828947224",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4069": {
+    "id": "4069",
+    "name": "Apeni",
+    "description": "Lagodekhi district, Afeni Village",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.814761",
+    "longitude": "46.019009",
+    "fuel_types": [
+      "ED",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4140": {
+    "id": "4140",
+    "name": "Gldani, Ilia Vekua #38a",
+    "description": "Gldani, Ilia Vekua #38a",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.800440657866",
+    "longitude": "44.823620643848",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4098": {
+    "id": "4098",
+    "name": "Gulf Express \u2022 Digomi MG \u2022",
+    "description": "Gulf Express \u2022 Digomi MG \u2022 \nTbilisi, Agmashenebeli Alley #149\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.794901",
+    "longitude": "44.770972",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4227": {
+    "id": "4227",
+    "name": "Vekua, Tbilisi, Vekua Str. #2",
+    "description": "Vekua, Tbilisi, Vekua Str. #2",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.790654",
+    "longitude": "44.814234",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4227\/picture\/704b2f8a8a0bbefd4b263c193ae2f50b.jpg"
+  },
+  "4139": {
+    "id": "4139",
+    "name": "Giorgi 96, Agmashenebeli Alley 12 km.",
+    "description": "Giorgi 96, Agmashenebeli Alley 12 km.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.788978449084",
+    "longitude": "44.770475354422",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4176": {
+    "id": "4176",
+    "name": "Mukhiani, Gobronidze Str. 8",
+    "description": "Mukhiani, Gobronidze Str. #8",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.786678561575",
+    "longitude": "44.820868697395",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4177": {
+    "id": "4177",
+    "name": "Oil Terminal (13)",
+    "description": "Oil Terminal (Tskalsadeni Str. #13)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.786630563042",
+    "longitude": "44.794604506723",
+    "fuel_types": [],
+    "poi_types": [
+      "OB"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4152": {
+    "id": "4152",
+    "name": "Zigzagi, Tskalsadeni 13",
+    "description": "Zigzagi, Tskalsadeni Str. #13",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.786282572616",
+    "longitude": "44.795199957124",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4123": {
+    "id": "4123",
+    "name": "Avchala, Tskalsadeni #11",
+    "description": "Avchala, Tskalsadeni #11",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.786188574878",
+    "longitude": "44.794804301169",
+    "fuel_types": [],
+    "poi_types": [
+      "SC"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4103": {
+    "id": "4103",
+    "name": "Gulf Express \u2022 Irao",
+    "description": "Gulf Express \u2022 Irao \u2022 \nTskalsadeni Str. #13, \n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.7856",
+    "longitude": "44.7942",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4235": {
+    "id": "4235",
+    "name": "Sarajishvili. Tbilisi, Davit Guramishvili Ave. N51",
+    "description": "Sarajishvili. Tbilisi, Davit Guramishvili Ave. N51",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.784252",
+    "longitude": "44.799912",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4202": {
+    "id": "4202",
+    "name": "Fortuna",
+    "description": "Fortuna",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.783650583854",
+    "longitude": "44.768726554143",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4145": {
+    "id": "4145",
+    "name": "Guramishvili",
+    "description": "Guramishvili",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.781498512759",
+    "longitude": "44.797163334122",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4135": {
+    "id": "4135",
+    "name": "Botanika, Agmashenebeli Alley #93",
+    "description": "Botanika, Agmashenebeli Alley #93",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.779830704848",
+    "longitude": "44.769463763505",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4106": {
+    "id": "4106",
+    "name": "Gulf Express \u2022 Lubliana",
+    "description": "Gulf Express \u2022 Lubliana \u2022 \nTbilisi, Lubliana Str. #68,\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.7797",
+    "longitude": "44.7747",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4130": {
+    "id": "4130",
+    "name": "Babilo, A. Beliashvili str. #45",
+    "description": "Babilo, A. Beliashvili str. #45",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.762440732396",
+    "longitude": "44.78050949835",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4207": {
+    "id": "4207",
+    "name": "Grmagele, Guramishvili Ave. 19",
+    "description": "Grmagele, Guramishvili Ave. #19",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.760277945771",
+    "longitude": "44.787917759649",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4097": {
+    "id": "4097",
+    "name": "Gulf Express \u2022 Gurjaani",
+    "description": "Gulf Express \u2022 Gurjaani \u2022 \nGurjaani, Chumlaki\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.760042",
+    "longitude": "45.772836",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4165": {
+    "id": "4165",
+    "name": "Corner, Beliashvili Str.",
+    "description": "Corner, Beliashvili Str.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.755688034987",
+    "longitude": "44.778699007264",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4147": {
+    "id": "4147",
+    "name": "Didube, The Left Side of Mtkvari Near Digomi Bridge",
+    "description": "Didube, The Left Side of Mtkvari Near Digomi Bridge",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.754947696051",
+    "longitude": "44.780850138896",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "EXP",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4133": {
+    "id": "4133",
+    "name": "Bakuriani, Tavisupleba Str. 48",
+    "description": "Bakuriani, Tavisupleba Str. #48",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.754147320031",
+    "longitude": "43.529307272665",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4196": {
+    "id": "4196",
+    "name": "Standarti",
+    "description": "Standard. Astronauts Coast #99",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.749918",
+    "longitude": "44.775145",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4148": {
+    "id": "4148",
+    "name": "Eurasia, Marshall Gelovani Ave.",
+    "description": "Eurasia, Marshall Gelovani Ave.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.746351135555",
+    "longitude": "44.770166900388",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "EXP",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4137": {
+    "id": "4137",
+    "name": "Gelovani",
+    "description": "Gelovani",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.744678114273",
+    "longitude": "44.769072559111",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "EXP",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4218": {
+    "id": "4218",
+    "name": "Khosharauli, Raphael Agladze Str. 37",
+    "description": "Khosharauli, Raphael Agladze Str. #37",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.73452898517",
+    "longitude": "44.779605593911",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4219": {
+    "id": "4219",
+    "name": "Geocell,\u00a0The right side of the Mtkvari",
+    "description": "Geocell,\u00a0The right side of the Mtkvari",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.732360518534",
+    "longitude": "44.773593449675",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4228": {
+    "id": "4228",
+    "name": "Budapeshti, Tbilisi, Nutsubidze and Budapeshti Street Crossing",
+    "description": "Budapeshti, Tbilisi, Nutsubidze and Budapeshti Street Crossing",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.730224",
+    "longitude": "44.758209",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4228\/picture\/242b4b19d3badd36ff541f36b131d3e0.jpg"
+  },
+  "4226": {
+    "id": "4226",
+    "name": "Khudadovi, Tbilisi, Khudadovi and Uridia Street Crossing",
+    "description": "Khudadovi, Tbilisi, Khudadovi and Uridia Street Crossing",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.729402",
+    "longitude": "44.827062",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4226\/picture\/6e1a3bc1decde6f6d7844655ad985bb2.jpg"
+  },
+  "4110": {
+    "id": "4110",
+    "name": "Gulf Express \u2022 Patardzeuli",
+    "description": "Gulf Express \u2022 Patardzeuli \u2022 \nSagarejo, Patardzeuli\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.72812",
+    "longitude": "45.257603",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4181": {
+    "id": "4181",
+    "name": "Nutsubidze, II Block",
+    "description": "Nutsubidze, II Block",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.727595193224",
+    "longitude": "44.72428771519",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4175": {
+    "id": "4175",
+    "name": "Melange, Bagrationi Str.",
+    "description": "Melange, Bagrationi Str.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.726209946479",
+    "longitude": "44.784082200756",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4224": {
+    "id": "4224",
+    "name": "Kavtaradze, Petre Kavtaradze Str. #7",
+    "description": "Kavtaradze, Petre Kavtaradze Str. #7",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.722488",
+    "longitude": "44.737674",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4224\/picture\/f48b2ec980366cf271c8d6090f0cefca.jpg"
+  },
+  "4189": {
+    "id": "4189",
+    "name": "Sagaredzho Satave, Kakheti Highway 16 km.",
+    "description": "Sagaredzho Satave, Kakheti Highway 16 km.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.722299",
+    "longitude": "45.34877",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4186": {
+    "id": "4186",
+    "name": "Pointer, Tamarashvili Str. Near Ipodrom",
+    "description": "Pointer, Tamarashvili Str. Near Ipodrom",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.721646",
+    "longitude": "44.746185",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4159": {
+    "id": "4159",
+    "name": "Ipodromi, Tamarashvili str.",
+    "description": "Ipodromi, Tamarashvili str.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.721055",
+    "longitude": "44.74592",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4209": {
+    "id": "4209",
+    "name": "Chakvi, Tamar Mefe Str. 74a",
+    "description": "Chakvi, Tamar Mefe Str. #74a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.713049",
+    "longitude": "41.732838",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4168": {
+    "id": "4168",
+    "name": "Laguna vere",
+    "description": "Laguna vere",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.712211673842",
+    "longitude": "44.786075082056",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4192": {
+    "id": "4192",
+    "name": "Sartichala",
+    "description": "Sartichala",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.711320662267",
+    "longitude": "45.151791599025",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4199": {
+    "id": "4199",
+    "name": "Pikris Gora, Kostava Str. 59",
+    "description": "Pikris Gora, Kostava Str. #59",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.711240570733",
+    "longitude": "44.784068789711",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4191": {
+    "id": "4191",
+    "name": "Sanapiro, The Right Side of Mtkvari, Near The Former Auto Station",
+    "description": "Sanapiro, The Right Side of Mtkvari, Near The Former Auto Station",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.709296318156",
+    "longitude": "44.789629008999",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4120": {
+    "id": "4120",
+    "name": "Abashidze Str.\u00a022. 577004949 \/ 577216216",
+    "description": "Abashidze Str.\u00a022. 577004949 \/ 577216216",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.707281922361",
+    "longitude": "44.769845035303",
+    "fuel_types": [],
+    "poi_types": [
+      "SC"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4138": {
+    "id": "4138",
+    "name": "Geta, The right side of the Mtkvari #5",
+    "description": "Geta, The right side of the Mtkvari #5",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.705103",
+    "longitude": "44.793361",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4150": {
+    "id": "4150",
+    "name": "Varketili",
+    "description": "Varketili",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.70005",
+    "longitude": "44.87055",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4222": {
+    "id": "4222",
+    "name": "Gulf Express \u2022 Gombori",
+    "description": "Gulf Express \u2022 Gombori \u2022 \nGardabani, Martkobi Village\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.695099",
+    "longitude": "45.092131",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4222\/picture\/fd1342e805b2ae0334cd924125c40345.jpg"
+  },
+  "4171": {
+    "id": "4171",
+    "name": "Lilo",
+    "description": "Lilo",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.691998081086",
+    "longitude": "44.985040824337",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4095": {
+    "id": "4095",
+    "name": "Gulf Express \u2022 BIO",
+    "description": "Gulf Express \u2022 BIO \u2022 \nTbilisi, Kakheti Highway, \n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.688170056498",
+    "longitude": "44.85002162718",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4185": {
+    "id": "4185",
+    "name": "Piki, Kakheti Highway",
+    "description": "Piki, Kakheti Highway",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.688033851806",
+    "longitude": "44.846113648642",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4109": {
+    "id": "4109",
+    "name": "Gulf Express \u2022 Orkhevi",
+    "description": "Gulf Express \u2022 Orkhevi \u2022 \nTbilisi, Orkhevi\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.688",
+    "longitude": "44.9202",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4190": {
+    "id": "4190",
+    "name": "Samgori",
+    "description": "Samgori",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.687292733",
+    "longitude": "44.855537491151",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4166": {
+    "id": "4166",
+    "name": "Cosmonavt, Kakheti Higway",
+    "description": "Cosmonavt, Kakheti Higway",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.68716654165",
+    "longitude": "44.895745244252",
+    "fuel_types": [
+      "CNG",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "CNG",
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4099": {
+    "id": "4099",
+    "name": "Gulf Express \u2022 Varketili",
+    "description": "Gulf Express \u2022 Varketili \u2022 \nTbilisi, Javakheti Str. #50\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.6848291",
+    "longitude": "44.8694381",
+    "fuel_types": [
+      "ED",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4183": {
+    "id": "4183",
+    "name": "Ortachala",
+    "description": "Ortachala",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.681916361525",
+    "longitude": "44.826694455378",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4136": {
+    "id": "4136",
+    "name": "Bronto, Javakheti Str.",
+    "description": "Bronto, Javakheti Str.",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.681175172251",
+    "longitude": "44.870435919991",
+    "fuel_types": [
+      "CNG",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "CNG",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4220": {
+    "id": "4220",
+    "name": "Joker, Gulua Str. 1",
+    "description": "Joker, Gulua Str. 1",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.676417335119",
+    "longitude": "44.835797872773",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4067": {
+    "id": "4067",
+    "name": "Adigeni",
+    "description": "Adigeni, Tsereteli Str. #10",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.675667",
+    "longitude": "42.700311",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4146": {
+    "id": "4146",
+    "name": "Dako, Beri Gabriel Salosi Ave. 134",
+    "description": "Dako, Beri Gabriel Salosi Ave. 134",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.672296263082",
+    "longitude": "44.866954412689",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4090": {
+    "id": "4090",
+    "name": "Gulf Express \u2022 31 Factory",
+    "description": "Gulf Express \u2022 31 Factory \u2022 \nTbilisi, Bogdan Khmelincki, near building #3a.\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.6712",
+    "longitude": "44.8808",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4223": {
+    "id": "4223",
+    "name": "Gulf Express \u2022 Gorgasali",
+    "description": "Gulf Express \u2022 Gorgasali \u2022 \nTbilisi, Vakhtang Gorgsali Str. #117\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.669822",
+    "longitude": "44.85214",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4092": {
+    "id": "4092",
+    "name": "Gulf Express \u2022 Afrika",
+    "description": "Gulf Express \u2022 Afrika \u2022 \nTbilisi, Kindzmarauli Sts. #32\n(Self Service)",
+    "is_active": "1",
+    "region": "tbilisi",
+    "latitude": "41.6657",
+    "longitude": "44.9133",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4116": {
+    "id": "4116",
+    "name": "Gulf Express \u2022 Ponichala",
+    "description": "Gulf Express \u2022 Ponichala \u2022 \nTbilisi, Rustavi Highway #18\/22\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.652988",
+    "longitude": "44.904797",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4129": {
+    "id": "4129",
+    "name": "Akhaltsikhe, Tamarashvili Str.",
+    "description": "Akhaltsikhe, Tamarashvili Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.646620271159",
+    "longitude": "43.001255419483",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4070": {
+    "id": "4070",
+    "name": "Akhaltsikhe Tegeta",
+    "description": "On the Tbilisi-Akhaltsikhe highway, on the left, to the east of the new bridge",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.646521",
+    "longitude": "43.001518",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4225": {
+    "id": "4225",
+    "name": "McDonalds. Batumi, Zurab Gorgiladze Str. #90",
+    "description": "McDonalds. Batumi, Zurab Gorgiladze Str. #90",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.643382",
+    "longitude": "41.61894",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4225\/picture\/23d937763554d9610b9d23cd07d33dc1.jpg"
+  },
+  "4093": {
+    "id": "4093",
+    "name": "Gulf Express \u2022 Akhaltsikhe",
+    "description": "Gulf Express \u2022 Akhaltsikhe \u2022 \nAkhaltsikhe, Rustaveli Str. #97\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.6390721",
+    "longitude": "43.0153985",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4162": {
+    "id": "4162",
+    "name": "Kachreti",
+    "description": "Kachreti",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.638094",
+    "longitude": "45.679157",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4087": {
+    "id": "4087",
+    "name": "Lermontovi 2",
+    "description": "Batumi, Lermontovi Str. #86",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.635812",
+    "longitude": "41.629954",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4132": {
+    "id": "4132",
+    "name": "Batumi Bagrationi",
+    "description": "Batumi, Bagrationi #198",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.632014",
+    "longitude": "41.61699",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "EXP",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4107": {
+    "id": "4107",
+    "name": "Gulf Express \u2022 Niazi",
+    "description": "Gulf Express \u2022 Niazi \u2022 \nBatumi, Leonidze Str. #11\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.626712",
+    "longitude": "41.625499",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "EXP",
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4105": {
+    "id": "4105",
+    "name": "Gulf Express \u2022 Kumisi",
+    "description": "Gulf Express \u2022 Kumisi \u2022 \nGardabani, Kumisi\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.618216",
+    "longitude": "44.793927",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4084": {
+    "id": "4084",
+    "name": "Tsnori",
+    "description": "Sighnaghi district, Tsnori, Davit Agmashenebeli Str. #38",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.618075",
+    "longitude": "45.983972",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4131": {
+    "id": "4131",
+    "name": "Batumi Airport",
+    "description": "Airport Highway #175",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.6109",
+    "longitude": "41.61332",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4214": {
+    "id": "4214",
+    "name": "Khelvachauri,\u00a0Settlement Mejinistskali",
+    "description": "Khelvachauri,\u00a0Settlement Mejinistskali",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.609246904299",
+    "longitude": "41.625698776911",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4122": {
+    "id": "4122",
+    "name": "Adlia",
+    "description": "Adlia",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.598236",
+    "longitude": "41.598607",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4149": {
+    "id": "4149",
+    "name": "Vale, Village Arali",
+    "description": "Vale, Village Arali",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.59366894694",
+    "longitude": "42.824240353338",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4141": {
+    "id": "4141",
+    "name": "Gonio,  Batumi, Apsarosi str. 47a",
+    "description": "Gonio,  Batumi, Apsarosi str. #47a",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.580594863048",
+    "longitude": "41.577761497727",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4164": {
+    "id": "4164",
+    "name": "Koda",
+    "description": "Koda",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.574027733219",
+    "longitude": "44.7745442655",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4091": {
+    "id": "4091",
+    "name": "Gulf Express \u2022 Aspindza",
+    "description": "Gulf Express \u2022 Aspindza \u2022 \nAspindza, Vardzia Str. #44, Akhaltsikhe, Ninotsminda highway 31 km.\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.573791",
+    "longitude": "43.247375",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4234": {
+    "id": "4234",
+    "name": "Gulf Express \u2022 Erge",
+    "description": "Gulf Express \u2022 Erge \u2022 \nKhelvachauri, Vilage Erge\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.566564",
+    "longitude": "41.687728",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4234\/picture\/2ffa4f80d893a3dfb4f798c562e2d71d.jpg"
+  },
+  "4111": {
+    "id": "4111",
+    "name": "Gulf Express \u2022 Rustavi City",
+    "description": "Gulf Express \u2022 Rustavi City \u2022 \nRustavi, VII Block, #3 Prof.Collage\n(Self Service)",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.564665",
+    "longitude": "44.974344",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4188": {
+    "id": "4188",
+    "name": "Rustavi Shartava, Shartava\/Meskhishvili",
+    "description": "Rustavi Shartava, Shartava\/Meskhishvili",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.563068991575",
+    "longitude": "44.978979554404",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP",
+      "GFS"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4187": {
+    "id": "4187",
+    "name": "Rustavi Grandi",
+    "description": "Rustavi Grandi, Megrobroba ave. #32",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.561258744043",
+    "longitude": "44.979027834168",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4233": {
+    "id": "4233",
+    "name": "Rustavi Mshenebelta",
+    "description": "Rustavi, Mshenebelta Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.544739",
+    "longitude": "45.003608",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [],
+    "picture": "https:\/\/gulf.ge\/uploads\/map_pin\/4233\/picture\/6066c8ea5e48e30609f19f074dcdd22e.jpg"
+  },
+  "4072": {
+    "id": "4072",
+    "name": "Gardabani",
+    "description": "Rustavi, Near to Mshenelta Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.514257",
+    "longitude": "45.03912",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  },
+  "4173": {
+    "id": "4173",
+    "name": "Marneuli City, 26 May Str.",
+    "description": "Marneuli City, 26 May Str.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.493384065731",
+    "longitude": "44.802425828211",
+    "fuel_types": [
+      "ED",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SC",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4172": {
+    "id": "4172",
+    "name": "Marneuli Sadakhlo, Highway 3 km.",
+    "description": "Marneuli Sadakhlo, Highway 3 km.",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.459848179655",
+    "longitude": "44.809898462524",
+    "fuel_types": [
+      "DE",
+      "ER",
+      "GFED",
+      "GFER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS",
+      "SHP"
+    ],
+    "food_types": [
+      "CF"
+    ],
+    "picture": null
+  },
+  "4079": {
+    "id": "4079",
+    "name": "Taribana",
+    "description": "Dedofliskaro",
+    "is_active": "1",
+    "region": "region",
+    "latitude": "41.450057",
+    "longitude": "46.129877",
+    "fuel_types": [
+      "DE",
+      "ED",
+      "ER",
+      "GFP"
+    ],
+    "poi_types": [
+      "GAS"
+    ],
+    "food_types": [],
+    "picture": null
+  }
+}
+       
