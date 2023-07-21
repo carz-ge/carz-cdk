@@ -40,23 +40,24 @@ func GetAndUpdateChargers() {
 	SaveStations(chargerEntities)
 }
 
-func SaveStations(chargerEntities []models.AutoStationEntity) {
+func SaveStations(stationEntities []models.AutoStationEntity) {
 	var oldChargerEntities []models.AutoStationEntity
 	initializers.DB.Find(&oldChargerEntities)
+	log.Printf("stationEntities length: %d, old stations: %d", len(stationEntities), len(oldChargerEntities))
 
-	if len(oldChargerEntities) > len(chargerEntities) {
+	if len(oldChargerEntities) > len(stationEntities) {
 		log.Println("new stations are less that is was before")
 	}
 
 	var differentChargerEntities []models.AutoStationEntity
 
-	for _, entity := range oldChargerEntities {
-		if !containsCharger(chargerEntities, entity) {
+	for _, entity := range stationEntities {
+		if !containsCharger(oldChargerEntities, entity) {
 			differentChargerEntities = append(differentChargerEntities, entity)
 		}
 	}
 
-	log.Println(differentChargerEntities)
+	log.Println("diff ", len(differentChargerEntities))
 
 	if len(differentChargerEntities) > 0 {
 		initializers.DB.CreateInBatches(differentChargerEntities, 100)

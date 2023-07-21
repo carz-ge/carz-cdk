@@ -23,7 +23,7 @@ type RompetrolStationItem struct {
 	Address   string  `json:"address"`
 	AddressEn string  `json:"address_en"`
 	Latitude  float64 `json:"lat"`
-	Longitude float64 `json:"lon"`
+	Longitude float64 `json:"lng"`
 
 	Type       string   `json:"type"`
 	Services   []string `json:"services"`
@@ -61,7 +61,7 @@ func GetRompetrolStationsEntities() (stations []models.AutoStationEntity, err er
 			Region:   stationKa.County,
 			RegionEn: stationKa.CountyEn,
 
-			TextHtml:  stationKa.Infowindow,
+			TextHtml:  []byte(stationKa.Infowindow),
 			Active:    true,
 			Latitude:  fmt.Sprintf("%f", stationKa.Latitude),
 			Longitude: fmt.Sprintf("%f", stationKa.Longitude),

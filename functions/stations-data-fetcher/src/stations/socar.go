@@ -75,8 +75,8 @@ func GetSocarStationsEntities() (stations []models.AutoStationEntity, err error)
 			StationType:  "AUTO_STATION",
 			Name:         stationKa.Title,
 			NameEn:       stationEn.Title,
-			TextHtml:     stationKa.Text,
-			TextHtmlEn:   stationEn.Text,
+			TextHtml:     []byte(stationKa.Text),
+			TextHtmlEn:   []byte(stationKa.Text),
 			Active:       stationKa.Publish == "1",
 			Latitude:     stationKa.Latitude,
 			Longitude:    stationKa.Longitude,
@@ -111,7 +111,7 @@ func convertToStationType(v interface{}) (services []byte, err error) {
 					serviceType.Code = val[`code`].(string)
 				}
 				if val[`image`] != nil {
-					serviceType.Id = val[`image`].(string)
+					serviceType.Image = val[`image`].(string)
 				}
 				services = append(services, serviceType)
 				break

@@ -25,27 +25,27 @@ type AutoStationEntity struct {
 	StationType  string `gorm:"type:varchar(255);not null"`
 	ProviderCode string `gorm:"type:varchar(255);not null"`
 
-	TextHtml   string `gorm:"type:varchar(255)"`
-	TextHtmlEn string `gorm:"type:varchar(255)"`
+	TextHtml   []byte
+	TextHtmlEn []byte
 
 	Name   string `gorm:"type:varchar(255);not null"`
 	NameEn string `gorm:"type:varchar(255);not null"`
 
-	Description   string
-	DescriptionEn string
+	Description   string `gorm:"type:varchar(255)"`
+	DescriptionEn string `gorm:"type:varchar(255)"`
 
 	Active bool
 
 	Latitude  string `gorm:"type:varchar(255);not null"`
 	Longitude string `gorm:"type:varchar(255);not null"`
-	Region    string
-	RegionEn  string
-	City      string
-	CityEn    string
-	Address   string
-	AddressEn string
+	Region    string `gorm:"type:varchar(255)"`
+	RegionEn  string `gorm:"type:varchar(255)"`
+	City      string `gorm:"type:varchar(255)"`
+	CityEn    string `gorm:"type:varchar(255)"`
+	Address   string `gorm:"type:varchar(255)"`
+	AddressEn string `gorm:"type:varchar(255)"`
 
-	Picture string
+	Picture string `gorm:"type:varchar(255)"`
 
 	ProductTypes datatypes.JSON // fuels
 	ObjectTypes  datatypes.JSON // buildings

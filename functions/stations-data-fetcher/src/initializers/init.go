@@ -2,7 +2,6 @@ package initializers
 
 import (
 	"log"
-	"os"
 )
 
 func init() {
@@ -13,17 +12,17 @@ func init() {
 		log.Fatal(err)
 	}
 
-	stage := os.Getenv("STAGE")
+	//stage := os.Getenv("STAGE")
 
 	var envConfig Config
 
-	if stage != "LOCAL" {
-		secretName := "stations-fetcher-prod-eu-west-1"
-		envConfig, err = LoadSecrets(config, secretName)
+	//if stage != "LOCAL" {
+	secretName := "stations-fetcher-prod-eu-west-1"
+	envConfig, err = LoadSecrets(config, secretName)
 
-	} else {
-		envConfig, err = LoadConfig(".")
-	}
+	//} else {
+	//	envConfig, err = LoadConfig(".")
+	//}
 
 	if err != nil {
 		log.Fatal(err)

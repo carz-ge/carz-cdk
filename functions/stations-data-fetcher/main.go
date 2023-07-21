@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"github.com/aws/aws-lambda-go/lambda"
 	"log"
 	"main/src/core"
 	"main/src/migrate"
@@ -65,6 +64,6 @@ func handler(ctx context.Context, event interface{}) error {
 }
 
 func main() {
-	// 	run()
-	lambda.Start(handler)
+	run()
+	//lambda.Start(handler)
 }

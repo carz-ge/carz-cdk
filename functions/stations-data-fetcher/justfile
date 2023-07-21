@@ -4,3 +4,7 @@ run:
  docker run --rm \
  -e POSTGRES_URL=postgresql://car_app_user:S7WLDtcVWruL1tam_LaAjg@car-app-db-cluster-7427.7tc.cockroachlabs.cloud:26257/carapp_db?sslmode=verify-full \
   stations-fetcher
+
+run-emulator:
+  chmod +x ~/.aws-lambda-rie/aws-lambda-rie
+  ~/.aws-lambda-rie/aws-lambda-rie go run main.go
